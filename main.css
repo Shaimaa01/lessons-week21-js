@@ -1,0 +1,10 @@
+body{
+    background-image: url("https://wallpaperaccess.com/thumb/719697.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    height:100vh;
+}
+
+h1 {
+    text-align: center;
+}
